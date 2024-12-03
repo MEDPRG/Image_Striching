@@ -78,6 +78,7 @@ Here’s an example of the stitching process:
    ![image](https://github.com/user-attachments/assets/cf7841c6-6263-47a0-b6fc-735e6b919bf2)
 
 2. **Stitched Panorama**:
+   
    ![image](https://github.com/user-attachments/assets/7146e89e-af05-4abe-a13b-c9259fbb7737)
 
 ## Contributing

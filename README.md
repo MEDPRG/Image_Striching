@@ -75,15 +75,11 @@ The script generates a stitched panorama as the final output, with intermediate 
 Here’s an example of the stitching process:
 
 1. **Input Images**:
-   ![Input Images](examples/input_images.jpg)
+   ![image](https://github.com/user-attachments/assets/cf7841c6-6263-47a0-b6fc-735e6b919bf2)
 
 2. **Stitched Panorama**:
-   ![Stitched Panorama](examples/stitched_panorama.jpg)
+   ![image](https://github.com/user-attachments/assets/7146e89e-af05-4abe-a13b-c9259fbb7737)
 
 ## Contributing
 
 Contributions, bug reports, and feature requests are welcome! Feel free to open an issue or submit a pull request.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.

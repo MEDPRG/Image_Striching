@@ -80,3 +80,9 @@ Here’s an example of the stitching process:
 2. **Stitched Panorama**:
    
    ![image](https://github.com/user-attachments/assets/7146e89e-af05-4abe-a13b-c9259fbb7737)
+
+--
+## Author
+
+**MEDPRG**  
+[GitHub Profile](https://github.com/MEDPRG)
